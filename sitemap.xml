@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kellytai.github.io/projects/project1/</loc>
+  </url><url>
+    <loc>https://kellytai.github.io/home/about/</loc>
+  </url><url>
     <loc>https://kellytai.github.io/categories/</loc>
   </url><url>
+    <loc>https://kellytai.github.io/home/contact/</loc>
+  </url><url>
+    <loc>https://kellytai.github.io/home/</loc>
+  </url><url>
     <loc>https://kellytai.github.io/</loc>
+  </url><url>
+    <loc>https://kellytai.github.io/home/projects/</loc>
+  </url><url>
+    <loc>https://kellytai.github.io/projects/</loc>
   </url><url>
     <loc>https://kellytai.github.io/tags/</loc>
   </url>
